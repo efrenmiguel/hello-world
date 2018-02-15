@@ -1,4 +1,4 @@
-<img src="mapua_logo.jpg" align="right"/>
+<img src="images/mapua_logo.jpg" align="right"/>
 
 # hello-world
 Efren's hello-world Project: 
